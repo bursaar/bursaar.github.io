@@ -23,7 +23,7 @@ tags:
 - Thomas Was Alone
 comments: []
 ---
-<address>PC, Mac, Linux, iPad, PS3, PS Vita: €7.99, <a href="thomaswasalone.com" target="_blank">thomaswasalone.com</a></address>
+<address>PC, Mac, Linux, iPad, PS3, PS Vita: €7.99, <a href="https://thomaswasalone.com" target="_blank">thomaswasalone.com</a></address>
 <p>A puzzle-platformer originally released for PC and Mac in 2012, <i>Thomas Was Alone</i> has been gradually expanding onto more platforms, finally landing on iPad this month. After just a few minutes of play, it’s easy to see why this game is still finding new audiences.</p>
 <p>The first level begins with the eponymous Thomas, a rogue AI who experiences his first self-aware thought and then explores the space around him, hopping from platform to platform. As he progresses, he’s joined by other shapes who each have their own perks and abilities.</p>
 <p>The mechanics start out quite simple, escalating in complexity at a perfect pace and in concert with the story, an intermittent witty narration that punctuates the action with flashes of character and tension, always cut with exceptional humour.</p>

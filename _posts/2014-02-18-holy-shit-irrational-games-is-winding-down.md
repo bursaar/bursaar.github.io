@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 <p>Wellity, wellity, wellity. I never saw this coming.</p>
-<p>Ken Levine is winding down Irrational Games and refocusing a much smaller team on a new project, possibly the dynamic narrative idea he<a href="https://www.polygon.com/2013/10/9/4816828/ken-levines-next-big-thing-isnt-so-much-a-game-as-it-is-a-reinvention" target="_blank">'s been hinting at for a while</a>. He's just posted this on the landing page of <a href="irrationalgames.com" target="_blank">IrrationalGames.com</a>:</p>
+<p>Ken Levine is winding down Irrational Games and refocusing a much smaller team on a new project, possibly the dynamic narrative idea he<a href="https://www.polygon.com/2013/10/9/4816828/ken-levines-next-big-thing-isnt-so-much-a-game-as-it-is-a-reinvention" target="_blank">'s been hinting at for a while</a>. He's just posted this on the landing page of <a href="https://irrationalgames.com" target="_blank">IrrationalGames.com</a>:</p>
 <blockquote><p><b>A Message From Ken Levine</b></p>
 <p>When Jon Chey, Rob Fermier and I founded Irrational Games seventeen years ago, our mission was to make visually unique worlds and populate them with singular characters.</p>
 <p>We built Rapture and Columbia, the Von Braun and The Rickenbacker, the Freedom Fortress and some of the nastiest basements a SWAT team ever set foot into.  We created Booker and Elizabeth, the Big Daddy and the Little Sister, MidWives and ManBot. In that time, Irrational has grown larger and more successful than we could have conceived when we began our three-person studio in a living room in Cambridge, MA. It’s been the defining project of my professional life.</p>

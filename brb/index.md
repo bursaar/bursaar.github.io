@@ -11,7 +11,7 @@ author:
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 1712
-wordpress_url: http://blog.ben.ie/?page_id=1712
+wordpress_url: https://blog.ben.ie/?page_id=1712
 date: '2012-11-26 09:15:35 +0000'
 date_gmt: '2012-11-26 09:15:35 +0000'
 categories: []

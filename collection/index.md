@@ -12,7 +12,7 @@ author_login: ben
 author_email: ben@ben.ie
 author_url: https://ben.ie
 wordpress_id: 3986
-wordpress_url: http://www.ben.ie/norobots/?page_id=3986
+wordpress_url: https://www.ben.ie/norobots/?page_id=3986
 date: '2013-07-15 12:31:05 +0100'
 date_gmt: '2013-07-15 12:31:05 +0100'
 categories: []
