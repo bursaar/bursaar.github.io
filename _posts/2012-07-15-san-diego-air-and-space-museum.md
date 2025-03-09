@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: San Diego Air and Space Museum
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: In San Diego, we checked out the Air and Space Museum, which was freaking

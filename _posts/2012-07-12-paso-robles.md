@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Paso Robles
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Nathalie and I toured the Southern Wine Country of California; Paso Robles.

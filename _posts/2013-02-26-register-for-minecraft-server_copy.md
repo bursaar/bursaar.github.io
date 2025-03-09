@@ -3,11 +3,7 @@ layout: wpcf7_contact_form
 status: publish
 published: true
 title: Register for Minecraft Server_copy
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 3718

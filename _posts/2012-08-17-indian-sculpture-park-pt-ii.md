@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Indian Sculpture Park Pt. II
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Another visit to the Indian Statue Park, with the lend of a macro lens!

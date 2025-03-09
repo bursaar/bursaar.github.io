@@ -3,11 +3,7 @@ layout: video
 status: publish
 published: true
 title: Sockies 13 - Mario-esque screen
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 3924

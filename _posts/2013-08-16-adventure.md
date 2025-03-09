@@ -3,11 +3,7 @@ layout: nav_menu_item
 status: publish
 published: true
 title: Adventure
-author:
-  display_name: Ben
-  login: ben
-  email: ben@ben.ie
-  url: https://ben.ie
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 author_url: https://ben.ie

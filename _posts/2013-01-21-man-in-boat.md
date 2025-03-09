@@ -3,11 +3,7 @@ layout: gallery
 status: publish
 published: true
 title: Man In Boat
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 2181

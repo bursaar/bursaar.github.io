@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: '5-Second Film: Hardback'
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: She loves Game of Thrones!

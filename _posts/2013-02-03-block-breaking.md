@@ -3,11 +3,7 @@ layout: portfolio_1359750750
 status: publish
 published: true
 title: Block Breaking
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Excerpt.

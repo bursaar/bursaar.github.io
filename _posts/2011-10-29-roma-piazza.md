@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'Roma: Piazza'
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 450

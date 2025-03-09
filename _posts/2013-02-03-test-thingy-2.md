@@ -3,11 +3,7 @@ layout: portfolio_1359750750
 status: publish
 published: true
 title: Borg vs. Starfleet
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: A strategy game played in real life using iPhones.

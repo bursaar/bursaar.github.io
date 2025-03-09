@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: The Festivals Thing
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Ever wonder why film festivals are important and what it's like dealing with

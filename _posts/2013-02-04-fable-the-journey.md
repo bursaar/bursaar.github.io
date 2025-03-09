@@ -3,11 +3,7 @@ layout: portfolio_1359936439
 status: publish
 published: true
 title: 'Fable: The Journey'
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: 'My review of Fable: The Journey'

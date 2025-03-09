@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: '2012'
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: A lovely video Nathalie and I made about our 2012.

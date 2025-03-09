@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: FAQ Me, I'm Leaving The Country!
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: I've got big news, so let's get some of the usual questions out of the way.

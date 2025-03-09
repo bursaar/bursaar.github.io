@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Things I Learned From Joss Whedon
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: I was inspired by seeing Joss Whedon speak today.

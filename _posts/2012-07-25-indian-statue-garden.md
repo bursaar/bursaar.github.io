@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Indian Statue Garden
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: A bizarre patch of Eastern culture with a tech twist in the middle of Co.

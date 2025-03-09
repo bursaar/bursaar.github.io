@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: The Agency
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: A pitch made by myself and Emmett Scanlan for a Storyland submission a few

@@ -3,11 +3,7 @@ layout: gallery
 status: publish
 published: true
 title: Big Guitar, White Shirt
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 2167

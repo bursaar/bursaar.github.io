@@ -3,11 +3,7 @@ layout: portfolio_1359740170
 status: publish
 published: true
 title: Unity 3D Test
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 2331

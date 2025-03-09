@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Barry's Bespoke Bakery available on the RTÉ Player
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Barry's Bespoke Bakery is available to watch online (if you're in Ireland,

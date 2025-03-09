@@ -3,11 +3,7 @@ layout: portfolio_1361889484
 status: publish
 published: true
 title: I Try My Best
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: A game about confidence, support and timing.

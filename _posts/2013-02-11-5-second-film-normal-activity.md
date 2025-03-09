@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: '5-Second Film: Normal Activity'
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: A riff on Paranormal Activity.

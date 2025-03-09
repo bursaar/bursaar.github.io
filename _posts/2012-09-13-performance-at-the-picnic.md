@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Performance at The Picnic
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: I managed to catch a few acts while I was at the Picnic.

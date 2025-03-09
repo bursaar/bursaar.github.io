@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Minecraft Map
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Wanna check out my Minecraft maps?

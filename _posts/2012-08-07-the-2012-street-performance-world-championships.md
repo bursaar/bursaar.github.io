@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: The 2012 Street Performance World Championships
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Some shots from the environs of the Street Performance World Championship.

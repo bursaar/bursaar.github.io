@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: BFI London Lesbian & Gay Film Festival
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 excerpt: Yet another announcement! This is a good week...

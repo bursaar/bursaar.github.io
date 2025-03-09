@@ -3,11 +3,7 @@ layout: portfolio_1361889484
 status: publish
 published: true
 title: The Day Grandad Snozbot Exploded
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 4410
