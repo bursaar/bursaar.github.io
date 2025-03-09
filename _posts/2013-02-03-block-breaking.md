@@ -1,5 +1,5 @@
 ---
-layout: portfolio_1359750750
+layout: post
 status: publish
 published: true
 title: Block Breaking
@@ -16,5 +16,5 @@ tags:
 - test tag
 comments: []
 ---
-<p>[dropcap]T[/dropcap]his is my first serious attempt to play around in Unity 3D. There are no fancy bells and whistles, but there are linking levels, respawning and some triggered transformations. I don't know if it's even technically a game yet, but the physics are kinda fun at least.<br />
+<p>This is my first serious attempt to play around in Unity 3D. There are no fancy bells and whistles, but there are linking levels, respawning and some triggered transformations. I don't know if it's even technically a game yet, but the physics are kinda fun at least.<br />
 [WP_UnityObject src="https://dl.dropbox.com/u/165719/BB003/BB003/BB003.unity3d" width="640" height="480"/]</p>

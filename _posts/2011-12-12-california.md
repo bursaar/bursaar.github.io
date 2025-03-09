@@ -23,23 +23,7 @@ comments:
   date_gmt: '2012-01-14 13:25:22 +0000'
   content: "[...] Here is Ben&#8217;s blogpost of his trip to California and stay
     tuned to his blog to see pics from the trip that he made to California THIS New
-    Year and January.  Advertisement  GA_googleAddAttr(&quot;AdOpt&quot;, &quot;1&quot;);
-    GA_googleAddAttr(&quot;Origin&quot;, &quot;other&quot;); GA_googleAddAttr(&quot;theme_bg&quot;,
-    &quot;ffffff&quot;); GA_googleAddAttr(&quot;theme_text&quot;, &quot;333333&quot;);
-    GA_googleAddAttr(&quot;theme_link&quot;, &quot;0066cc&quot;); GA_googleAddAttr(&quot;theme_border&quot;,
-    &quot;cccccc&quot;); GA_googleAddAttr(&quot;theme_url&quot;, &quot;ff4b33&quot;);
-    GA_googleAddAttr(&quot;LangId&quot;, &quot;1&quot;); GA_googleAddAttr(&quot;Autotag&quot;,
-    &quot;travel&quot;); GA_googleAddAttr(&quot;Tag&quot;, &quot;adventures&quot;);
-    GA_googleAddAttr(&quot;Tag&quot;, &quot;photography&quot;); GA_googleAddAttr(&quot;Tag&quot;,
-    &quot;art&quot;); GA_googleAddAttr(&quot;Tag&quot;, &quot;california&quot;); GA_googleAddAttr(&quot;Tag&quot;,
-    &quot;culture&quot;); GA_googleAddAttr(&quot;Tag&quot;, &quot;la&quot;); GA_googleAddAttr(&quot;Tag&quot;,
-    &quot;los-angles&quot;); GA_googleAddAttr(&quot;Tag&quot;, &quot;oil&quot;); GA_googleAddAttr(&quot;Tag&quot;,
-    &quot;photography&quot;); GA_googleAddAttr(&quot;Tag&quot;, &quot;road-trip&quot;);
-    GA_googleAddAttr(&quot;Tag&quot;, &quot;san-francisco&quot;); GA_googleFillSlot(&quot;wpcom_sharethrough&quot;);
-    \ Share this:TwitterFacebookLike this:LikeBe the first to like this post.   This
-    entry was posted in Adventures, Photography and tagged art, California, Culture,
-    LA, Los Angles, Oil, Photography, Road trip, San Francisco. Bookmark the permalink.
-    \   &larr; STILL LIFE,Windowsill, Reminds me of&nbsp;Home [...]"
+    Year and January. [...]"
 ---
 <p>Very soon (SO SUPER SOON) I will be visiting the sunny state of California with <a href="https://www.nathalie.ie/blog" target="_blank">Nathalie</a>. It reminded me that I'd never really been through my shots properly since being in the States earlier in the year with <a href="https://shanewozere.wordpress.com/" target="_blank">Shane</a> (who has a great photoblog you should check out). Looking through reminded me of the benefit of time - I saw so many shots I'd missed on the first edit. Kinda tempting to go back through all libraries and pick out some old shots.</p>
 <p>We started off in <a href="https://en.wikipedia.org/wiki/Santa_Monica" target="_blank">Santa Monica</a>, an uncommonly lovely part of LA.</p>

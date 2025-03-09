@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 status: publish
 published: true
 title: 'Call to action: Scandal and Excess'
@@ -10,8 +10,11 @@ wordpress_id: 4233
 wordpress_url: https://ben.ie/?page_id=4233
 date: '2014-08-23 12:44:57 +0100'
 date_gmt: '2014-08-23 12:44:57 +0100'
-categories: []
-tags: []
+categories: 
+- Announcements
+tags:
+- Game Development
+toc: truie
 comments:
 - id: 457
   author: Ludum Dare &raquo; Ben Keenan

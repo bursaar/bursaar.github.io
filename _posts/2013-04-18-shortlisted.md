@@ -24,7 +24,7 @@ tags:
 - Songway Films
 comments: []
 ---
-<p>[dropcap]<a href="https://www.uniquelydublin.ie/" target="_blank">U[/dropcap]niquely Dublin</a> have most wonderfully seen their way to selecting <a title="Horse in The Hole" href="https://www.songwayfilms.com/portfolio/horse-in-the-hole/"><em>Horse in The Hole</em></a> for their shortlist. We are exhibiting in the <a href="https://www.littlemuseum.ie/" target="_blank">Little Museum of Dublin</a> for the next few weeks until the 26th of April. The exhibition is open and free to the public. Please do stick your head in and have a look at our entry and the other works if you're in the vicinity.</p>
+<p><a href="https://www.uniquelydublin.ie/" target="_blank">Uniquely Dublin</a> have most wonderfully seen their way to selecting <a title="Horse in The Hole" href="https://www.songwayfilms.com/portfolio/horse-in-the-hole/"><em>Horse in The Hole</em></a> for their shortlist. We are exhibiting in the <a href="https://www.littlemuseum.ie/" target="_blank">Little Museum of Dublin</a> for the next few weeks until the 26th of April. The exhibition is open and free to the public. Please do stick your head in and have a look at our entry and the other works if you're in the vicinity.</p>
 <p>[one-half]<iframe src="https://www.youtube.com/embed/vbLm3MhvZws?rel=0" height="240" width="100%" allowfullscreen="" frameborder="0"></iframe></p>
 <p>[/one-half]</p>
 <p>[one-half last]</p>

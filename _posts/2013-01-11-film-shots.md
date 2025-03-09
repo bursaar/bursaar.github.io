@@ -25,5 +25,5 @@ tags:
 - Fire
 comments: []
 ---
-<p>[dropcap]T[/dropcap]hough I'm quite busy at the moment, I couldn't help but try out some of the bells and whistles on my new site. Here are some of the film shots I've shot in the last couple of years.</p>
+<p>Though I'm quite busy at the moment, I couldn't help but try out some of the bells and whistles on my new site. Here are some of the film shots I've shot in the last couple of years.</p>
 <p>I have a bag of undeveloped film I promise to get done some time this year. Watch this space!</p>

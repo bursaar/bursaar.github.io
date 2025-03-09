@@ -1,5 +1,5 @@
 ---
-layout: portfolio_1361889484
+folio_1361889484
 status: publish
 published: true
 title: Mayor Mayhem
@@ -14,6 +14,6 @@ categories: []
 tags: []
 comments: []
 ---
-<p>[dropcap]E[/dropcap]ver wanted to be the bad guy?</p>
+<p>Ever wanted to be the bad guy?</p>
 <p><em>Mayor Mayhem</em> is a tower defence-style game I was prototyping and co-designing with the incredibly talented Simon Hudson of <a href="https://www.munstarstudios.com" target="_blank" rel="noopener">Munstar Studios</a>. A fascism-themed mobile romp through cities around the world.</p>
 <p>&nbsp;</p>

@@ -23,7 +23,7 @@ tags:
 - Maps
 comments: []
 ---
-<p>[dropcap]T[/dropcap]hose of you who know me have probably heard me talk about <a href="https://minecraft.net" target="_blank">Minecraft</a>, one of the most wonderful games I've ever played. A kind of virtual sandbox, it can be difficult to get started, especially since there's no tutorial or manual, but it's definitely worth the initial work up the learning curve.</p>
+<p>Those of you who know me have probably heard me talk about <a href="https://minecraft.net" target="_blank">Minecraft</a>, one of the most wonderful games I've ever played. A kind of virtual sandbox, it can be difficult to get started, especially since there's no tutorial or manual, but it's definitely worth the initial work up the learning curve.</p>
 <p>One of the coolest aspects of Minecraft is multiplayer. Anybody can create a server and have their mates come and join in. With a little bit of networking know-how and some awesome plugins and 3[sup]rd[/sup] party software, you can put together something quite full-featured.</p>
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-2389" alt="Screen Shot 2013-02-08 at 17.07.59" src="https://ben.ie/wp-content/uploads/2013/02/Screen-Shot-2013-02-08-at-17.07.59-e1360343674640.png" width="905" height="120" /></p>
 <p>I've been hosting a server for some time now, and have recently overhauled the mapping system. Using <a href="https://www.minecraftwiki.net/wiki/Programs_and_Editors/Tectonicus" target="_blank">Tectonicus</a>, I've created three maps:</p>

@@ -52,7 +52,7 @@ comments:
   content: "[...] this rather ginormous post). I can&#8217;t recommend a visit highly
     enough. Ben has two really great posts on it as [...]"
 ---
-<p style="text-align: left;">[dropcap]A[/dropcap]nother trip back to the beautiful and oddly spiritual Indian Statue Park - you can check out my <a href="https://blog.ben.ie/?p=1484">previous post here</a>. Nathalie got some <a href="https://nathalie.ie/blog/2012/08/indian-scuptures-and-irish-wildflowers/" target="_blank">beautiful shots over here</a>!</p>
+<p style="text-align: left;">Another trip back to the beautiful and oddly spiritual Indian Statue Park - you can check out my <a href="https://blog.ben.ie/?p=1484">previous post here</a>. Nathalie got some <a href="https://nathalie.ie/blog/2012/08/indian-scuptures-and-irish-wildflowers/" target="_blank">beautiful shots over here</a>!</p>
 <p style="text-align: center;"><img alt="Fog" src="https://farm9.staticflickr.com/8303/7770599038_f89fcc563a_b.jpg" /></p>
 <p style="text-align: center;"><img alt="Split Man" src="https://farm9.staticflickr.com/8300/7770600970_8946e44b67_o.jpg" /></p>
 <p style="text-align: center;"><img alt="Create or Die" src="https://farm9.staticflickr.com/8440/7770602080_532dc80326_o.jpg" /></p>

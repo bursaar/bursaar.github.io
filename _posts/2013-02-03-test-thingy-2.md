@@ -1,5 +1,5 @@
 ---
-layout: portfolio_1359750750
+layout: post
 status: publish
 published: true
 title: Borg vs. Starfleet

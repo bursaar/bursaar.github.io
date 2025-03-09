@@ -16,7 +16,7 @@ comments: []
 ---
 <p>[intro]The following letter was not selected for publication by the Irish Times.[/intro]</p>
 <p>Sir,</p>
-<p>[dropcap]I[/dropcap] would like to draw your attention to a problem in the fair city of Dublin. Yesterday I took a walk along the banks of the Grand Canal, a favoured route of mine for developing my poetry. I have in the past enjoyed throwing bread for the ducks and swans dwelling there as a way to calm my mind and, I don't mind admitting, discarding unwanted and often stale bread.</p>
+<p>I would like to draw your attention to a problem in the fair city of Dublin. Yesterday I took a walk along the banks of the Grand Canal, a favoured route of mine for developing my poetry. I have in the past enjoyed throwing bread for the ducks and swans dwelling there as a way to calm my mind and, I don't mind admitting, discarding unwanted and often stale bread.</p>
 <p>I thought nothing of it as I did this today, like any other day, lines of verse tumbling from my mind, when a mallard gave me what I thought was a particularly malevolent look and thus spat: "Tight faggot".</p>
 <blockquote><p>...I discovered my mouth to be packed full of terribly dry, stale bread...</p></blockquote>
 <p>I was gobsmacked as I watched him paddle away and regurgitate my bread into the surprised face of a passing swan. Retreating to a local watering hole for a brandy, I took a seat and pondered my next move. What should I do?</p>

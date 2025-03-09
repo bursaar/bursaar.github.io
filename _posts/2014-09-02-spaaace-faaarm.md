@@ -1,5 +1,5 @@
 ---
-layout: portfolio_1361889484
+layout: post
 status: publish
 published: true
 title: Spaaace Faaarm!
