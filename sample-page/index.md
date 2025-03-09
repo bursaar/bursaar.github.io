@@ -3,11 +3,7 @@ layout: page
 status: publish
 published: true
 title: Sample Page
-author:
-  display_name: Ben
-  login: ben
-  email: ben@ben.ie
-  url: https://ben.ie
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 author_url: https://ben.ie

@@ -3,11 +3,7 @@ layout: page
 status: publish
 published: true
 title: Film & Video Work
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 1602
@@ -24,15 +20,5 @@ comments:
   date: '2014-04-08 11:58:15 +0100'
   date_gmt: '2014-04-08 11:58:15 +0100'
   content: "[&#8230;] Film &amp; Video Work [&#8230;]"
-- id: 10177
-  author: LastJosef
-  author_email: geraldoackerman@googlemail.com
-  author_url: https://111Mitchell.blogspot.co.uk
-  date: '2018-01-13 15:29:16 +0000'
-  date_gmt: '2018-01-13 15:29:16 +0000'
-  content: "I have noticed you don't monetize your site, don't waste your traffic,\r\nyou
-    can earn extra bucks every month because you've got hi \r\nquality content. If
-    you want to know how to make \r\nextra $$$, search for: Mertiso's tips best adsense
-    alternative"
 ---
 

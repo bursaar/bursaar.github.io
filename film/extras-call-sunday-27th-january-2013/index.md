@@ -3,11 +3,7 @@ layout: page
 status: publish
 published: true
 title: 'Extras Call: Sunday 27th January 2013 (updated)'
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 2218

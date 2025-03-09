@@ -3,11 +3,7 @@ layout: page
 status: publish
 published: true
 title: Visual Effects Work
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 3914

@@ -3,11 +3,7 @@ layout: page
 status: publish
 published: true
 title: Promo for "Journey To The End Of The Night"
-author:
-  display_name: ben
-  login: ben
-  email: ben@ben.ie
-  url: ''
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 wordpress_id: 4071
