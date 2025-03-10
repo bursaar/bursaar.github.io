@@ -1,0 +1,1 @@
+Collection of favourite places in Galway? Maybe using the Collections tech? https://jekyllrb.com/docs/collections/
