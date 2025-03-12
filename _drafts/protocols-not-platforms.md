@@ -1,0 +1,1 @@
+The open web. Using markdown instead of a CMS. Taking ownership back of your computing. Leaning into the friction as giving you purchase rather than being funnelled down someone else's business model.
