@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: "...playing games!"
-author:
-  display_name: Ben
-  login: ben
-  email: ben@ben.ie
-  url: http://now.ben.ie
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 author_url: http://now.ben.ie
@@ -34,6 +30,7 @@ comments: []
 <figure class="wp-block-video"><video autoplay controls loop muted src="assets/uploads/now.ben.ie/2023/07/2023051418584700-CC47F0DEC75C1FD3B1F95FA9F9D57667-1.mov" playsinline></video><br />
 <figcaption class="wp-element-caption">Elon Musk would call this a successful failure.</figcaption>
 </figure>
+!["assets/uploads/now.ben.ie/2023/07/2023051418584700-CC47F0DEC75C1FD3B1F95FA9F9D57667-1.mov"]
 <p><!-- /wp:video --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">?</h2>

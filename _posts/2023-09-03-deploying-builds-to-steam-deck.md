@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: "...deploying builds to Steam Deck"
-author:
-  display_name: Ben
-  login: ben
-  email: ben@ben.ie
-  url: http://now.ben.ie
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 author_url: http://now.ben.ie
@@ -39,5 +35,5 @@ comments:
 <p>After following a <a href="https://foosel.net/til/how-to-add-itchio-games-to-the-steamdeck">helpful guide</a> on installing Itch.io on the Steam Deck, I've been able to use a <a href="https://github.com/WispBart/ButlerWindow">handy little Unity Package</a> to deploy directly to Itch.io from the editor – which now lets me play those builds on the deck, complete with auto-updating.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":103,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="https://now.ben.ie/wp-content/uploads/2023/09/Screenshot-2023-09-03-at-09.44.21-1024x1022.png" alt="" class="wp-image-103"/></figure>
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/09/Screenshot-2023-09-03-at-09.44.21-1024x1022.png" alt="" class="wp-image-103"/></figure>
 <p><!-- /wp:image --></p>

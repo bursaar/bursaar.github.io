@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: "...recapping October 2023"
-author:
-  display_name: Ben
-  login: ben
-  email: ben@ben.ie
-  url: http://now.ben.ie
+author: ben
 author_login: ben
 author_email: ben@ben.ie
 author_url: http://now.ben.ie
@@ -130,12 +126,12 @@ https://pca.st/m2f2sq8v
 <p>I've been juggling a lot of deadlines recently, and so installed <strong><a href="https://xbarapp.com" target="_blank" rel="noreferrer noopener">xbar</a></strong>, a little taskbar utility for MacOS that does a deceptively simple thing; it will run a script (python, bash, etc) in a given location at a frequency you specify (seconds, minutes, hours, days etc) and if that script returns a string, it'll output that value on the title bar. Sounds dull, but they've a gallery full of cool scripts you can plug in and tweak.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":123,"width":"650px","height":"auto","aspectRatio":"4.862068965517241","sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full is-resized"><img src="https://now.ben.ie/wp-content/uploads/2023/10/Screenshot-2023-10-27-at-22.51.14.png" alt="" class="wp-image-123" style="aspect-ratio:4.862068965517241;width:650px;height:auto"/><br />
+<figure class="wp-block-image size-full is-resized"><img src="assets/uploads/now.ben.ie/2023/10/Screenshot-2023-10-27-at-22.51.14.png" alt="" class="wp-image-123" style="aspect-ratio:4.862068965517241;width:650px;height:auto"/><br />
 <figcaption class="wp-element-caption">String output in my taskbar</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":122,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full"><img src="https://now.ben.ie/wp-content/uploads/2023/10/Screenshot-2023-10-27-at-22.51.04.png" alt="" class="wp-image-122"/><br />
+<figure class="wp-block-image size-full"><img src="assets/uploads/now.ben.ie/2023/10/Screenshot-2023-10-27-at-22.51.04.png" alt="" class="wp-image-122"/><br />
 <figcaption class="wp-element-caption">Snippet of python that counts down working days to a given date</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -143,7 +139,7 @@ https://pca.st/m2f2sq8v
 <p>Another great MacOS utility I picked up recently was <strong><a href="https://www.raycast.com" target="_blank" rel="noreferrer noopener">Raycast</a></strong>, a recommendation on <em><a href="https://www.theverge.com/installer-newsletter" data-type="link" data-id="https://www.theverge.com/installer-newsletter">In</a><a href="https://www.theverge.com/installer-newsletter" data-type="link" data-id="https://www.theverge.com/installer-newsletter" target="_blank" rel="noreferrer noopener">s</a><a href="https://www.theverge.com/installer-newsletter" data-type="link" data-id="https://www.theverge.com/installer-newsletter">taller</a></em>, the great newish newsletter from <em>The Verge</em>. It's like Spotlight with an App Store. It's got oodles of prewritten plugins that work great. I've been using it to rapidly lash notes into Logseq, update JIRA tickets, jot down wee notes. Hopefully when (if!?) life calms a little I'll probe its other offerings.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":131,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="https://now.ben.ie/wp-content/uploads/2023/10/Screenshot-2023-10-28-at-10.01.11-1024x696.png" alt="" class="wp-image-131"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/10/Screenshot-2023-10-28-at-10.01.11-1024x696.png" alt="" class="wp-image-131"/><br />
 <figcaption class="wp-element-caption">Raycast</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -188,7 +184,7 @@ https://pca.st/m2f2sq8v
 <p><strong>?️ Playing</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":140,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full"><img src="https://now.ben.ie/wp-content/uploads/2023/10/Screenshot-2023-10-28-at-10.56.12.png" alt="" class="wp-image-140"/></figure>
+<figure class="wp-block-image size-full"><img src="assets/uploads/now.ben.ie/2023/10/Screenshot-2023-10-28-at-10.56.12.png" alt="" class="wp-image-140"/></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>As I mentioned at the top, I haven't had much time or headspace for playing games this month (more on that next month), but I was lucky enough to nab an invite to <a rel="noreferrer noopener" href="http://puzzmo.com" target="_blank"><strong>Puzzmo</strong></a>, the new project from <a rel="noreferrer noopener" href="http://www.stfj.net" target="_blank">Zach Gage</a> and some other very talented folks. <a rel="noreferrer noopener" href="https://www.puzzmo.com/public-manifesto" target="_blank">Reading their manifesto</a>, I was reminded of this great design teardown I read a few months ago by veteran game designer and author <a rel="noreferrer noopener" href="https://www.raphkoster.com" target="_blank">Raph Koster</a>: <em><a rel="noreferrer noopener" href="https://www.raphkoster.com/2023/09/02/why-nyts-connections-makes-you-feel-bad/" target="_blank">Why NYT's Connections makes you feel bad</a></em>. Crosswords and puzzles have been huge for years, but Wordle really kicked things into the mainstream, and yet I've been disappointed by projects rushing in to fill the demand. Zach is a really thoughtful designer and artist and unsurprisingly myself and <a href="http://now.nathalie.ie" data-type="link" data-id="now.nathalie.ie">Nathalie</a> have been really enjoying making our way through Puzzmo's puzzles every day.</p>
