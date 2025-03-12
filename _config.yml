@@ -167,9 +167,13 @@ kramdown:
       start_line: 1
 
 collections:
+  my-games:
+    sort_by: date
+    output: true
   tabs:
     output: true
     sort_by: order
+  
 
 defaults:
   - scope:
