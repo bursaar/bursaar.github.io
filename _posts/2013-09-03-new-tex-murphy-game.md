@@ -28,7 +28,7 @@ comments: []
 <p><iframe src="//www.youtube.com/embed/BABcn4RMLqo" height="326" width="580" allowfullscreen="" frameborder="0"></iframe></p>
 <p>As you can see, the technology has gotten better, even if it has managed to retain its cheap, cheesy charm.</p>
 <p>If you're curious about the older games, you can pick them up from <a href="https://GOG.com" target="_blank">GOG.com</a> for PC or Mac. They're great, but <span style="text-decoration: underline;">be warned</span>, the control scheme is very, very clunky and old-fashioned.</p>
-<p><img class="aligncenter size-large wp-image-4679" alt="Tesla Effect - Wallpaper 12" src="https://thenorobotsblog.com/wp-content/uploads/2013/09/TeslaEffectLouieLaMintz1-1024x576.jpg" width="580" height="326" /></p>
+<p><img class="aligncenter size-large wp-image-4679" alt="Tesla Effect - Wallpaper 12" src="assets/uploads/norobots/uploads/2013/09/TeslaEffectLouieLaMintz1-1024x576.jpg" width="580" height="326" /></p>
 <p>For the curious to buy:</p>
 <p><em><a href="https://www.gog.com/game/tex_murphy_1_2" target="_blank">Tex Murphy 1 &amp; 2</a></em></p>
 <p><em><a href="https://www.gog.com/game/tex_murphy_under_a_killing_moon" target="_blank">Tex Murphy: Under A Killing Moon</a></em></p>

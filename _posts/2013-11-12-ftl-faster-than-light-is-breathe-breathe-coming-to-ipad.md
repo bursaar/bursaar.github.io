@@ -48,4 +48,4 @@ comments:
 ---
 <p>It's happening, <a href="https://www.ftlgame.com/?p=598" target="_blank">it's really happening</a>! When? In early 2014. With extra ships, weapons, drones, hacking, effects, story events etc. etc. etc.<i><br />
 </i></p>
-<p><img class="alignnone  wp-image-4956" alt="FTL AE_iPad_SS1" src="https://thenorobotsblog.com/wp-content/uploads/2013/11/FTL-AE_iPad_SS1.png" width="580" /></p>
+<p><img class="alignnone  wp-image-4956" alt="FTL AE_iPad_SS1" src="assets/uploads/norobots/uploads/2013/11/FTL-AE_iPad_SS1.png" width="580" /></p>

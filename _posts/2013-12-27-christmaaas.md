@@ -30,7 +30,7 @@ comments: []
 ---
 <p>Christmas is a time for tuning out the ones you love by playing lots of games.</p>
 <p>Ah no, just kidding. But it is normally a work-free zone where you get to catch up on your gaming, and this year was no exception. I kept myself busy playing the below games near-constantly.</p>
-<p><img class="alignnone size-full wp-image-5091" alt="Games Played For Christmas" src="https://thenorobotsblog.com/wp-content/uploads/2013/12/Games-Played-For-Christmas.png" width="580" height="1050" /></p>
+<p><img class="alignnone size-full wp-image-5091" alt="Games Played For Christmas" src="assets/uploads/norobots/uploads/2013/12/Games-Played-For-Christmas.png" width="580" height="1050" /></p>
 <h2>Civ V</h2>
 <p>I still haven't gotten the <em>Brave New World</em> expansion, but I'm still exploring (and enjoying) the <em>Gods &amp; Kings</em> expansion, which definitely fixes a lot of <em>Civ V</em>'s problems. I'll crush those cursed English bastards under the boot of my Roman empire!</p>
 <h2>Stanley Parable</h2>

@@ -18,6 +18,6 @@ tags:
 - Steam
 comments: []
 ---
-<div class="separator" style="clear: both; text-align: center;"><a href="https://thenorobotsblog.com/wp-content/uploads/2013/09/wpid-Photo-25-Sep-2013-10341.jpg" target="_blank" style="margin-left: 1em; margin-right: 1em;"><img src="https://thenorobotsblog.com/wp-content/uploads/2013/09/wpid-Photo-25-Sep-2013-10341.jpg" id="blogsy-1380101802650.1772" class="aligncenter" width="578" height="256" alt=""></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="assets/uploads/norobots/uploads/2013/09/wpid-Photo-25-Sep-2013-10341.jpg" target="_blank" style="margin-left: 1em; margin-right: 1em;"><img src="assets/uploads/norobots/uploads/2013/09/wpid-Photo-25-Sep-2013-10341.jpg" id="blogsy-1380101802650.1772" class="aligncenter" width="578" height="256" alt=""></a></div>
 <p>Just a quick note to say; very excited about the potential of <a href="https://store.steampowered.com/livingroom/SteamOS/" target="_blank" title="">Steam OS</a>. Being able to build a streamlined Steam box without the hassle of Windows, making my hundreds of games playable on a big screen. Let&#39;s do this.</p>
 <p>&nbsp;</p>

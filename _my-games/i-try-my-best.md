@@ -30,7 +30,7 @@ comments:
   content: "[&#8230;] you&#8217;d like to play the game or read more about it&#8217;s
     development, head on over to I Try My Best in the My Games section of my [&#8230;]"
 ---
-<p><img class="size-large wp-image-5015 aligncenter" alt="Hung Over at Twine Jam" src="https://thenorobotsblog.com/wp-content/uploads/2013/11/Photo-on-24-11-2013-at-11.41-1024x682.jpg" width="580" height="386" /></p>
+<p><img class="size-large wp-image-5015 aligncenter" alt="Hung Over at Twine Jam" src="assets/uploads/norobots/uploads/2013/11/Photo-on-24-11-2013-at-11.41-1024x682.jpg" width="580" height="386" /></p>
 <h2>Play: <a href="https://philome.la/bursaar/i-try-my-best">Published</a> / <a href="https://dl.dropboxusercontent.com/u/165719/twinejam/Index.html" target="_blank">Work In Progress</a></h2>
 <p>The game is written in <a href="https://twinery.org" target="_blank">Twine</a>, so it's a game-like Choose Your Own Adventure story. Studying game development at the moment, I wanted to exercise my newfound coding confidence and stretch my design muscles, but I also wanted to make something that was in some way personal, even if it wasn't about me exactly, I wanted it to be definitively mine. I wrote the game as part of the <a href="https://www.dublintwinejam.com" target="_blank">Dublin Twine &amp; Jam</a>.</p>
 <p>Some points of note:</p>

@@ -15,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-<h2><img class="aligncenter size-full wp-image-4865" alt="Platformer_V01" src="https://thenorobotsblog.com/wp-content/uploads/2013/10/Platformer_V01.png" width="640" height="480" /></h2>
+<h2><img class="aligncenter size-full wp-image-4865" alt="Platformer_V01" src="assets/uploads/norobots/uploads/2013/10/Platformer_V01.png" width="640" height="480" /></h2>
 <h2>Download: PC / <a href="https://games.ben.ie/platformer/platformer_v01.zip" target="_blank">Mac</a> / Design Doc / <a href="https://games.ben.ie/platformer/platformer_v01.gmk" target="_blank">Gamemaker File</a></h2>
 <p>This is the first iteration of a platform game. There is no aim or goal yet, just a player character, a single level and some inert platforms to jump around on.</p>
 <p>The basic controls are:</p>

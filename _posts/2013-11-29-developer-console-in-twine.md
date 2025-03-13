@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 <p>It feels a little gauche to be delivering pro tips for game development when I'm a neophyte, but I've come across a helpful approach that I'll be revisiting for the foreseeable future, and I'd like to share it.</p>
-<p><img class="alignnone size-full wp-image-5049 aligncenter" alt="I Try My Best - Twine Dev Console" src="https://thenorobotsblog.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-29-at-10.38.06.png" width="152" height="149" /></p>
+<p><img class="alignnone size-full wp-image-5049 aligncenter" alt="I Try My Best - Twine Dev Console" src="assets/uploads/norobots/uploads/2013/11/Screen-Shot-2013-11-29-at-10.38.06.png" width="152" height="149" /></p>
 <p>When you start a story, tweaking variables and passages is fairly straightforward, but as it becomes both longer and more complex, it gets awkward and difficult, really slowing you down. The feedback loop becomes over-extended and it affects both productivity and creativity (though there's nothing wrong with a *little* bit of space between actions).</p>
 <p>To smooth the way a little bit, and to make keeping track of variables easier, I realised that it should be possible to silently call two passages that would make tweaking easier.</p>
 <p>The first one is the <strong>Master Variable List</strong>. This is a list of every variable, set to its default initialised state. When I was writing the game as part of a recent game jam, I would instantiate as I went, but this is messy and undesirable for a few reasons. It especially makes tweaking and debugging agonisingly difficult as the game starts to sprawl.</p>

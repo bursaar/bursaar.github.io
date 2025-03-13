@@ -21,13 +21,13 @@ tags:
 comments: []
 ---
 <h3>6:30 a.m. Dublin</h3>
-<div class="separator" style="clear: both; text-align: center;"><span style="margin-left: 1em; margin-right: 1em;"><img id="blogsy-1397655777309.9998" class="aligncenter" src="https://thenorobotsblog.com/wp-content/uploads/2014/04/wpid-Photo-20140416144235.jpg" alt="" width="580" height="773" /></span></div>
+<div class="separator" style="clear: both; text-align: center;"><span style="margin-left: 1em; margin-right: 1em;"><img id="blogsy-1397655777309.9998" class="aligncenter" src="assets/uploads/norobots/uploads/2014/04/wpid-Photo-20140416144235.jpg" alt="" width="580" height="773" /></span></div>
 <div class="separator" style="text-align: left; clear: both;">Nice way to start a 48-hour game jam, right? With a super early start? RIGHT?</div>
 <h3>7:30 a.m. Dublin Airport</h3>
-<div class="separator" style="clear: both; text-align: center;"><span style="margin-left: 1em; margin-right: 1em;"><img id="blogsy-1397655777290.852" class="aligncenter" src="https://thenorobotsblog.com/wp-content/uploads/2014/04/wpid-Photo-201404161442351.jpg" alt="" width="580" height="435" /></span></div>
+<div class="separator" style="clear: both; text-align: center;"><span style="margin-left: 1em; margin-right: 1em;"><img id="blogsy-1397655777290.852" class="aligncenter" src="assets/uploads/norobots/uploads/2014/04/wpid-Photo-201404161442351.jpg" alt="" width="580" height="435" /></span></div>
 <div class="separator" style="text-align: justify; clear: both;"><span style="line-height: 1.3em; text-align: left;">Not a soul stirring. It's really kind of beautiful in its own way. As beautiful as anything with a McDonalds in it can be, at least.</span></div>
 <h3>9:45 LUTON!</h3>
-<div class="separator" style="clear: both; text-align: center;"><span style="margin-left: 1em; margin-right: 1em;"><img id="blogsy-1397655777264.4692" class="aligncenter" src="https://thenorobotsblog.com/wp-content/uploads/2014/04/wpid-Photo-201404161442352.jpg" alt="" width="800" height="600" /></span></div>
+<div class="separator" style="clear: both; text-align: center;"><span style="margin-left: 1em; margin-right: 1em;"><img id="blogsy-1397655777264.4692" class="aligncenter" src="assets/uploads/norobots/uploads/2014/04/wpid-Photo-201404161442352.jpg" alt="" width="800" height="600" /></span></div>
 <div class="separator" style="text-align: left; clear: both;">That's right, I'm in Luton. Deal with it.</div>
 <div class="separator" style="text-align: left; clear: both;"></div>
 <div class="separator" style="text-align: left; clear: both;">The first thing I had to do was...wait around for five and a half hours because that's how the flights worked out. I met another Irish person who flew over for the event as well and we waited it out together, trying to conserve our energy for the trials ahead.</div>

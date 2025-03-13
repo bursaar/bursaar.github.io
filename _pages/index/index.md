@@ -16,4 +16,4 @@ tags: []
 comments: []
 ---
 <p>I talk about a lot of games, here's a nice handy index for you to peruse the back catalogue.</p>
-<p><a href="https://www.ben.ie/norobots/game/kr0/"><img class="alignnone size-full wp-image-4109" alt="krz" src="https://thenorobotsblog.com/wp-content/uploads/2013/08/krz.png" width="200" height="200" /></a> <a href="https://www.ben.ie/norobots/game/minecraft/"><img class="alignnone size-full wp-image-4112" alt="minecraft" src="https://thenorobotsblog.com/wp-content/uploads/2013/08/minecraft.png" width="200" height="200" /></a></p>
+<p><a href="https://www.ben.ie/norobots/game/kr0/"><img class="alignnone size-full wp-image-4109" alt="krz" src="assets/uploads/norobots/uploads/2013/08/krz.png" width="200" height="200" /></a> <a href="https://www.ben.ie/norobots/game/minecraft/"><img class="alignnone size-full wp-image-4112" alt="minecraft" src="assets/uploads/norobots/uploads/2013/08/minecraft.png" width="200" height="200" /></a></p>

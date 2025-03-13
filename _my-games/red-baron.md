@@ -15,7 +15,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p><img class="aligncenter size-full wp-image-4808" alt="Red Baron V03" src="https://thenorobotsblog.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-02-at-13.00.21.png" width="641" height="480" /></p>
+<p><img class="aligncenter size-full wp-image-4808" alt="Red Baron V03" src="assets/uploads/norobots/uploads/2013/10/Screen-Shot-2013-10-02-at-13.00.21.png" width="641" height="480" /></p>
 <h2>Download: <a href="https://games.ben.ie/RedBaron_V03.exe" target="_blank">PC</a> / <a href="https://games.ben.ie/RedBaron_V03.zip" target="_blank">Mac</a> / <a href="https://games.ben.ie/RedBaron_V01.pdf" target="_blank">Design Doc</a></h2>
 <p>This game is a simple scrolling shooter. The core gameplay was quite simple, so I added a couple of fun dynamics;</p>
 <ul>
