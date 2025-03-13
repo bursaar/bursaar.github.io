@@ -36,7 +36,7 @@ comments:
 <p>Previously on <em><a href="https://thenorobotsblog.com/section/regulars/mission-log/">Mission Log</a></em>: <a title="Rescue Mission: FFS" href="https://thenorobotsblog.com/rescue-mission-pt-3/">FFS</a></p>
 <p>Read from the beginning: <a title="Rescue Mission: Initial Sit Rep" href="https://thenorobotsblog.com/rescue-mission_pt0/">Rescue Mission</a></p>
 <p>A few weeks ago, I sent a trio of astro-kerbals to rescue this guy:</p>
-<p><a href="assets/uploads/norobots/uploads/2013/08/Screen-Shot-2013-08-11-at-23.27.09.png"><img class="aligncenter size-full wp-image-4117" alt="Kerbal on Minimus" src="assets/uploads/norobots/uploads/2013/08/Screen-Shot-2013-08-11-at-23.27.09.png" width="374" height="465" /></a></p>
+<p><img class="aligncenter size-full wp-image-4117" alt="Kerbal on Minimus" src="assets/uploads/norobots/uploads/2013/08/Screen-Shot-2013-08-11-at-23.27.09.png" width="374" height="465" /></p>
 <p>His situation has improved a little, in that he is now nice and warm in a capsule...helplessly orbiting Kerban. The heroes who went to save him are also sitting in a nice warm capsule...stranded on the surface of Minmus.</p>
 <p><img class="aligncenter size-large wp-image-4749" alt="Kerbal Space Program - Stranded on Minmus" src="assets/uploads/norobots/uploads/2013/09/screenshot19-1024x640.png" width="580" height="362" /></p>
 <p>As most rescue attempts go, it is lame, it's pretty lame. I put my hands up, that's on me. Sorry, lads.</p>

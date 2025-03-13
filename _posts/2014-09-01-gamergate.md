@@ -30,7 +30,7 @@ comments: []
 <p>This is when the situation really exploded. A vocal subsection of the gaming community began ranting about the ethics of gaming journalism, deciding that since the gaming press weren't reporting on Zoe Quinn (a personal matter) and were covering Anita Sarkeesian (a professional and necessary feminist critique), they were obviously corrupt and part of a conspiracy. They coined the terms SJW (social justice warrior) and White Knights, calling out women, feminists and anybody in favour of welcoming diversity to gaming as biased and unethical. Vile death threats were made to Anita and her family:</p>
 <p>https://twitter.com/femfreq/status/504718160902492160</p>
 <p style="text-align: left;">Since then, the shouting has only gotten louder, with the #GamerGate people becoming more insane by the hour:</p>
-<p style="text-align: left;"><a href="assets/uploads/norobots/uploads/2014/09/E8KfMNU.png"><img class="alignnone size-large wp-image-5379" src="assets/uploads/norobots/uploads/2014/09/E8KfMNU-1024x225.png" alt="Quinnspiracy" width="580" height="127" /></a></p>
+<p style="text-align: left;"><img class="alignnone size-large wp-image-5379" src="assets/uploads/norobots/uploads/2014/09/E8KfMNU.png" alt="Quinnspiracy" width="580" height="127" /></p>
 <p style="text-align: left;">If you'd like to read a couple of properly-written articles, check out:</p>
 <p style="padding-left: 30px; text-align: left;"><a href="https://dangolding.tumblr.com" target="_blank">The End of Gamers</a></p>
 <p style="padding-left: 30px; text-align: left;"><a href="https://badassdigest.com/2014/08/31/why-i-feel-bad-for-and-understand-the-angry-gamergate-gamers/" target="_blank">Why I Feel Bad For – And Understand – The #GamerGate Gamers</a></p>

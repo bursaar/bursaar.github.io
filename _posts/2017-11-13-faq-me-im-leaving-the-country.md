@@ -12,10 +12,11 @@ wordpress_url: https://ben.ie/?p=4437
 date: '2017-11-13 07:12:09 +0000'
 date_gmt: '2017-11-13 07:12:09 +0000'
 categories:
-- Announcement
+- Announcements
 tags:
 - news
 - Personal
+- Lisbon
 comments: []
 ---
 <p>So here. I have some news. Nathalie and I are moving to Lisbon in Portugal, and soon. Real soon. Like, three short, packing-packed weeks away. This is happening quite quickly and I’m not getting to see nearly enough people before I go, so I figured I’d save us both (you and me) a bit of time and cover some of the <strong>F</strong>requently <strong>A</strong>sked <strong>Q</strong>uestions below so that when I <strong>do</strong> see you, we’re able to get right into the good stuff.</p>
