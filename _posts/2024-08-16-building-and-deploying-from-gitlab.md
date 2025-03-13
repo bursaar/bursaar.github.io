@@ -28,13 +28,13 @@ comments: []
 ---
 And so can you! Too! The Even Better Edition.
 
-I've <a href="2024-06-01-deploying-from-gitlab-and-so-can-you/" data-type="post" data-id="183">previously shared a kind of ugly but effective</a> <code>.gitlab-ci.yml</code> file that I've been using to automatically deploy builds, but it was incomplete, and didn't cover:
+I've [previously]({% post_url 2024-06-01-deploying-from-gitlab-and-so-can-you %}) shared a kind of ugly but effective `.gitlab-ci.yml` file that I've been using to automatically deploy builds, but it was incomplete, and didn't cover:
 - Incrementing the version
 - Building the thing
 
 It was also really, super ugly.
 
-Since [moving to Godot]("tags/godot/"), I've fallen in love with the idea of being able to build and run automated tests in Linux Docker containers. I tried this with a project I've been working on (and off and on again) for a while, called <a href="https://bursaar.itch.io/the-bacon-game">The Bacon Game</a>:</p>
+Since <a href="/tags/godot">moving to Godot</a>, I've fallen in love with the idea of being able to build and run automated tests in Linux Docker containers. I tried this with a project I've been working on (and off and on again) for a while, called <a href="https://bursaar.itch.io/the-bacon-game">The Bacon Game</a>:</p>
 
 <iframe frameborder="0" src="https://itch.io/embed/2154665?border_width=0" width="550" height="165"><a href="https://bursaar.itch.io/the-bacon-game">The Bacon Game by Ben Marquez Keenan</a></iframe>
 
