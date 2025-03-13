@@ -14,7 +14,8 @@ date: '2014-04-11 08:17:38 +0100'
 date_gmt: '2014-04-11 07:17:38 +0100'
 categories:
 - Game Jam
-tags: []
+tags:
+- Game Jam
 comments: []
 ---
 <p>This weekend I&#39;m attending the <a href="https://www.train2game.com/">Train2Game</a> <a href="https://www.bbc.com/news/technology-19622596">Game Jam in Luton</a>. It&#39;s a 48 hour event kicking off this afternoon at 6pm and finishing at 6pm on Sunday. The idea is to make a computer game from scratch in that time. I&#39;ve been to a couple of these before; only one of which was a full-on computer game jam, and even that one was only 12 hours. This&#39;ll be my first time attending an event like this with my newfound (but still undeveloped) programming skills.

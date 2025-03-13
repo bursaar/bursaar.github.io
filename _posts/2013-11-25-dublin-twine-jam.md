@@ -19,6 +19,7 @@ categories:
 tags:
 - I Try My Best
 - Twine
+- Game Jam
 comments: []
 ---
 <p>Yesterday I attended the Dublin <a href="https://www.dublintwinejam.com" target="_blank">Twine &amp; Jam</a>, an event held at the offices of <a href="https://www.sixminute.com/" target="_blank">SixMinute</a>, organised by <a href="https://alphachar.com/" target="_blank">Charlene</a>, <a href="https://www.dreamfeel.net/" target="_blank">Paul</a> and <a href="https://davetheallthing.com/" target="_blank">Dave</a>. I've played with <a href="https://twinery.org" target="_blank">Twine</a> before, but I haven't made a real go of writing a full story before.</p>
