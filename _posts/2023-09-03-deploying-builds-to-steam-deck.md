@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...deploying builds to Steam Deck"
+title: "Deploying builds to Steam Deck"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

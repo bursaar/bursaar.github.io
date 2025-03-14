@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...reading (and loving) Cory Doctorow's writing."
+title: "Reading (and loving) Cory Doctorow's writing."
 author: ben
 author_login: ben
 author_email: ben@ben.ie

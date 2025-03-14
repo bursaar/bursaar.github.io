@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...reading The Apple II Age"
+title: "Reading The Apple II Age"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

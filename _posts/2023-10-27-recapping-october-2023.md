@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...recapping October 2023"
+title: "Recapping October 2023"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

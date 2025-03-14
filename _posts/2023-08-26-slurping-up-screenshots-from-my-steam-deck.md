@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...slurping up screenshots from my Steam Deck"
+title: "Slurping up screenshots from my Steam Deck"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

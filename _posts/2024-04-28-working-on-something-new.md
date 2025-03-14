@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...working on something new!"
+title: "Working on something new!"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

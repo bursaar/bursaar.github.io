@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...writing interactive fiction!"
+title: "Writing interactive fiction!"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

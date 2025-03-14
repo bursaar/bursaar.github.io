@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...playing Baldur's Gate III"
+title: "Playing Baldur's Gate III"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

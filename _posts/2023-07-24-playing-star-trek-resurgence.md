@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "…playing Star Trek: Resurgence"
+title: "Playing Star Trek: Resurgence"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...playing games!"
+title: "Playing games!"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...deploying from GitLab (and so can you)"
+title: "Deploying from GitLab (and so can you)"
 author: ben
 author_login: ben
 author_email: ben@ben.ie

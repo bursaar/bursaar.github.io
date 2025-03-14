@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "...trying out Wordpress (again)"
+title: "Trying out Wordpress (again)"
 author: ben
 author_login: ben
 author_email: ben@ben.ie
