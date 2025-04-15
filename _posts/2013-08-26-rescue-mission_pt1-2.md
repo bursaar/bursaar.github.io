@@ -55,7 +55,7 @@ comments:
 ---
 <p><em><a href="https://www.thenorobotsblog.com/rescue-mission_pt0/">Read the intro here.</a></em></p>
 <p>First part of getting to that poor lil' guy has gotta be getting off this rock. This rock is Kerban:</p>
-<p style="text-align: center;"><img class="alignnone size-large wp-image-4433" id="blogsy-1377535877639.87" alt="Kerban" src="assets/uploads/norobots/uploads/2013/08/screenshot1-1024x640.png" width="580" height="362" /></p>
+<p style="text-align: center;"><img class="alignnone size-large wp-image-4433" id="blogsy-1377535877639.87" alt="Kerban" src="assets/uploads/norobots/uploads/2013/08/screenshot1.png" width="580" height="362" /></p>
 <p>It's cute, right? It's a lot like earth, except without any visible sign of civilisation other than their Space Center.</p>
 <div class="separator" style="clear: both; text-align: center;"><img class="aligncenter" id="blogsy-1377535877604.4932" alt="" src="assets/uploads/norobots/uploads/2013/08/wpid-Photo-28-Jul-2013-2047.jpg" width="580" height="362" /></div>
 <p>If I'm going to rescue Donbus Kerman the kerbal from Minmus, I'll need to build a better rocket than last time.</p>

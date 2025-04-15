@@ -139,7 +139,7 @@ https://pca.st/m2f2sq8v
 <p>Another great MacOS utility I picked up recently was <strong><a href="https://www.raycast.com" target="_blank" rel="noreferrer noopener">Raycast</a></strong>, a recommendation on <em><a href="https://www.theverge.com/installer-newsletter" data-type="link" data-id="https://www.theverge.com/installer-newsletter">In</a><a href="https://www.theverge.com/installer-newsletter" data-type="link" data-id="https://www.theverge.com/installer-newsletter" target="_blank" rel="noreferrer noopener">s</a><a href="https://www.theverge.com/installer-newsletter" data-type="link" data-id="https://www.theverge.com/installer-newsletter">taller</a></em>, the great newish newsletter from <em>The Verge</em>. It's like Spotlight with an App Store. It's got oodles of prewritten plugins that work great. I've been using it to rapidly lash notes into Logseq, update JIRA tickets, jot down wee notes. Hopefully when (if!?) life calms a little I'll probe its other offerings.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":131,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/10/Screenshot-2023-10-28-at-10.01.11-1024x696.png" alt="" class="wp-image-131"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/10/Screenshot-2023-10-28-at-10.01.11.png" alt="" class="wp-image-131"/><br />
 <figcaption class="wp-element-caption">Raycast</figcaption>
 </figure>
 <p><!-- /wp:image --></p>

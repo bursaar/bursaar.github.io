@@ -44,9 +44,9 @@ comments:
 <p>They are a benevolent, stupid race of adorable beings who show no signs of civilisation beyond their slightly successful space program, which I am somehow running. <em>Kerbal Space Program</em> is a game about building spacecraft and sending hapless kerbals to their doom, though the aim SEEMS to be minimising fatalities, the system isn't, like, super strict about that.</p>
 <p><!--more--></p>
 <p>My recent mission to Minmus – one of the moons of Kerban, their home planet – was a semi-success. I say semi, in that I managed to get there in one piece:</p>
-<p><img class="alignnone size-large wp-image-4120" id="blogsy-1377535145855.909" alt="Kerbal on Minimus" src="assets/uploads/norobots/uploads/2013/08/Screen-Shot-2013-08-11-at-23.12.05-1024x640.png" width="700" height="437" /></p>
+<p><img class="alignnone size-large wp-image-4120" id="blogsy-1377535145855.909" alt="Kerbal on Minimus" src="assets/uploads/norobots/uploads/2013/08/Screen-Shot-2013-08-11-at-23.12.05.png" width="700" height="437" /></p>
 <p>...but I also managed to destroy the craft by running out of fuel during takeoff, stranding our heroic* kerbal on the surface after a daring high-altitude ejection...</p>
-<p><img class="alignnone size-large wp-image-4121" id="blogsy-1377535145823.6155" alt="Stranded Kerbal on Minimus" src="assets/uploads/norobots/uploads/2013/08/Screen-Shot-2013-08-11-at-23.26.261-1024x640.png" width="700" height="437" /></p>
+<p><img class="alignnone size-large wp-image-4121" id="blogsy-1377535145823.6155" alt="Stranded Kerbal on Minimus" src="assets/uploads/norobots/uploads/2013/08/Screen-Shot-2013-08-11-at-23.26.261.png" width="700" height="437" /></p>
 <p>Good. Great. We now we have a kerbal stranded on the surface of Minmus. Normally, this is where I'd just try to land repeatedly on the surface, wiping out a generation of kerbal sons and daughters, but I'm going to try something else; I'm going to send a rescue mission for that little guy.</p>
 <p><a href="https://thenorobotsblog.com/section/regulars/mission-log/">Stay tuned.</a></p>
 <p>* I say heroic. I mean incredibly stupid.</p>

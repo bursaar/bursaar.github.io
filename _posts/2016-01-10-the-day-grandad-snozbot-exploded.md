@@ -16,4 +16,4 @@ comments: []
 ---
 <p>A lovely little story episode in the Spaaace Faaarm! series of games I worked on at Snozbot. I contributed story ideas and wrote or revised much of the dialogue, as a member on a small team of people writing this and other games in the series.</p>
 <p>&nbsp;</p>
-<p>[caption id="attachment_4392" align="aligncenter" width="960"]<a href="https://snozbot.com/spaaace-faaarm/the-day-grandad-snozbot-exploded"><img class="size-large wp-image-4392" src="https://ben.ie/wp-content/uploads/2015/12/SpaceFarmEp1_10-1024x640.png" alt="Play the game" width="960" height="600" /></a> Play the game[/caption]</p>
+<p>[caption id="attachment_4392" align="aligncenter" width="960"]<a href="https://snozbot.com/spaaace-faaarm/the-day-grandad-snozbot-exploded"><img class="size-large wp-image-4392" src="https://ben.ie/wp-content/uploads/2015/12/SpaceFarmEp1_10.png" alt="Play the game" width="960" height="600" /></a> Play the game[/caption]</p>

@@ -22,7 +22,7 @@ comments: []
 ---
 <p>I'm not sure how long ago I qualified for the beta, but over the last couple of days I've had a go at the Steam in-home streaming feature that will apparently be bringing lots of added value to the ecosystem, allowing you to stream PC and Mac games to one another, and soon to computers running SteamOS.</p>
 <p>It's a lovely idea, an elegant solution to move people from one platform to another while their library of linux games is small (though it doesn't address console players who don't already own gaming PCs) <em>if</em> it works.</p>
-<p><img class="aligncenter size-large wp-image-5191" alt="Civilization V – Steam In-Home Streaming" src="assets/uploads/norobots/uploads/2014/01/Screen-Shot-2014-01-28-at-20.06.48-1024x640.png" width="580" height="362" /></p>
+<p><img class="aligncenter size-large wp-image-5191" alt="Civilization V – Steam In-Home Streaming" src="assets/uploads/norobots/uploads/2014/01/Screen-Shot-2014-01-28-at-20.06.48.png" width="580" height="362" /></p>
 <p>Note the stats in the bottom left-hand corner.</p>
 <p><img class="aligncenter size-full wp-image-5190" alt="Civilization V Steam In-Home Streaming Stats" src="assets/uploads/norobots/uploads/2014/01/Screen_Shot_2014-01-28_at_20_06_48.jpg" width="580" height="117" /></p>
 <p>As you can see, it's only giving me 16.95fps at 1200x800, this tech has a long way to go. It also didn't send audio along with the image, though I could hear my computer in the other room. It's worth noting that both computers are connected via gigabit ethernet and are joined by a single hub.</p>

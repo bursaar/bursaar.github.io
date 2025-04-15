@@ -48,7 +48,7 @@ comments: []
 <p>Enjoy!</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":92,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/08/20230814175117_1-1-1024x640.jpg" alt="" class="wp-image-92"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/08/20230814175117_1-1.jpg" alt="" class="wp-image-92"/><br />
 <figcaption class="wp-element-caption">Imagine, you could be pulling in incredible screenshots, like these!</figcaption>
 </figure>
 <p><!-- /wp:image --></p>

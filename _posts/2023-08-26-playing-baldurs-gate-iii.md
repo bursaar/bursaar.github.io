@@ -32,7 +32,7 @@ comments:
 <p>Yep. Like absolutely everybody else in the world, I am playing, and loving, <em>Baldur's Gate III</em>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":95,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/08/20230823064347_1-1024x640.jpg" alt="" class="wp-image-95"/></figure>
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/08/20230823064347_1.jpg" alt="" class="wp-image-95"/></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>With a 5-month-old in the house and summer holidays in full swing for our resident 5-year-old, playtime is snatched here and there, so once again the Steam Deck is my friend. I've managed to clock about 14 hours in the week and a half I've had the game and have been having a ball.</p>
@@ -41,7 +41,7 @@ comments:
 <p>I bounced off the first two games multiple times, but I think the beautiful cutscenes (not to mention having XCOM softening me up on tactics games) have pulled me in. And the writing is not just exquisite but consistently, voluminously exquisite. </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":96,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/08/20230816205720_1-1024x640.jpg" alt="" class="wp-image-96"/></figure>
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/08/20230816205720_1.jpg" alt="" class="wp-image-96"/></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>The Deck has been a great way to play too, thanks to amazing perf, input and UX work by Larian. The detail’s a little low (as you can see in the screenshots) but honestly you can’t tell on the Deck’s screen. I have hooked it up to my 4K work screen and played with keyboard and mouse. The softness is easier to spot of course but it’s still nice to be able to view the battlefield or a nice cutscene on a big screen. </p>

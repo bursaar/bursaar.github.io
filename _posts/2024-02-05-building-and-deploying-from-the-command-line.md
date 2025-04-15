@@ -125,7 +125,7 @@ git push origin --tags</code></pre>
 <p>Something I hadn't realised about Itch.io is that you can easily add fields and values to its <code>project.godot</code> file so you can layer in your own project metadata. To do this, enable Advanced Settings, write a path for the field, select a type and click Add.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":168,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2024/02/Screenshot-2024-02-05-at-15.28.22-962x1024.png" alt="" class="wp-image-168"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2024/02/Screenshot-2024-02-05-at-15.28.22.png" alt="" class="wp-image-168"/><br />
 <figcaption class="wp-element-caption">Adding Itch details for a future version of the script that will pull all details from the <code>project.godot</code> file.</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -146,7 +146,7 @@ Itch/sku={
 <p>As part of the mapping, I currently need to link the export path to the "sku" on Itch.io. At some point I'd like to make this less direct and just map the Export option to the sku.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":169,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2024/02/Screenshot-2024-02-05-at-15.28.51-966x1024.png" alt="" class="wp-image-169"/></figure>
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2024/02/Screenshot-2024-02-05-at-15.28.51.png" alt="" class="wp-image-169"/></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Incidentally, the above info looks like this in <code>project.godot</code>:</p>

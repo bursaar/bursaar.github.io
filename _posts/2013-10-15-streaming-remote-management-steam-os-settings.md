@@ -21,7 +21,7 @@ comments: []
 ---
 <p>Looks like <a href="https://www.valvesoftware.com" target="_blank">Valve</a> weren't just pretending with all of that <a href="https://store.steampowered.com/livingroom/" target="_blank">livingroom</a> stuff, elements of the features they've discussed have started showing up in the latest Steam beta.</p>
 <p>The <a href="https://steamdb.info/blog/30/" target="_blank">Steam Database</a> have posted instructions on how to get access to the streaming features:</p>
-<p style="text-align: center;"><img class="aligncenter size-large wp-image-4878" alt="Steam home streaming settings" src="assets/uploads/norobots/uploads/2013/10/2013-10-15_01-18-32_3061130404-1024x484.png" width="580" height="274" /></p>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-4878" alt="Steam home streaming settings" src="assets/uploads/norobots/uploads/2013/10/2013-10-15_01-18-32_3061130404.png" width="580" height="274" /></p>
 <blockquote>
 <h4>Technical stuff on how to get to the streaming menu</h4>
 <p>To get to the In-Home Streaming settings, you need to edit a layout file for Big Picture. This is unrecommended and Valve probably frowns upon doing this but it's the only way at the moment.</p>

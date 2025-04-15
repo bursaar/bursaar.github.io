@@ -76,7 +76,7 @@ comments: []
 <h2 class="wp-block-heading">Star Trek: Resurgence</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:image {"id":59,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/Screenshot-2023-07-25-at-11.38.46-1024x532.png" alt="" class="wp-image-59"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/Screenshot-2023-07-25-at-11.38.46.png" alt="" class="wp-image-59"/><br />
 <figcaption class="wp-element-caption">There's beautiful space stuff too, but I love the 90s-era production design rendered in UE5 ❤️</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -114,7 +114,7 @@ comments: []
 <h2 class="wp-block-heading">Citizen Sleeper</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:image {"id":62,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/CS_Keyart_Layered_HD_Pink_Revision_NoLogo-1024x576.png" alt="" class="wp-image-62"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/CS_Keyart_Layered_HD_Pink_Revision_NoLogo.png" alt="" class="wp-image-62"/><br />
 <figcaption class="wp-element-caption">Any screenshot is a spoiler, so enjoy this beautiful promotional art</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -139,7 +139,7 @@ https://youtu.be/tFOYaEQP9ks
 <h2 class="wp-block-heading">L.A. Noire</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:image {"id":63,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/lanoirecover-1024x576.jpg" alt="" class="wp-image-63"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/lanoirecover.jpg" alt="" class="wp-image-63"/><br />
 <figcaption class="wp-element-caption">See what I mean? A cat has definitely peed in here.</figcaption>
 </figure>
 <p><!-- /wp:image --></p>

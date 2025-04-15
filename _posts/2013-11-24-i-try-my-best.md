@@ -23,7 +23,7 @@ comments: []
 <p><a href="https://vimeo.com/105112820">Portfolio: I Try My Best</a> from <a href="https://vimeo.com/benkeenan">Ben Keenan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>This is a video showing off some of the features of my twine game I Try My Best. Created for the 2013 Dublin Twine &amp; Jam, it&#039;s about coaching an under confident dude through a party and trying to help him meet a nice girl.</p>
 <p> You can play the game at bit.ly/itrymybest</p>
-<p><a href="https://philome.la/bursaar/i-try-my-best" target="_blank"><img class="alignnone size-medium wp-image-4110 aligncenter" src="https://ben.ie/wp-content/uploads/2013/11/I-Try-My-Best-Play-Button-300x94.jpg" alt="I Try My Best Play Button" width="300" height="94" /></a></p>
+<p><a href="https://philome.la/bursaar/i-try-my-best" target="_blank"><img class="alignnone size-medium wp-image-4110 aligncenter" src="https://ben.ie/wp-content/uploads/2013/11/I-Try-My-Best-Play-Button.jpg" alt="I Try My Best Play Button" width="300" height="94" /></a></p>
 <p>Some points of note:</p>
 <ul>
 <li>There is a slightly dynamic headshot with a confidence level at the top of each page past a certain point in the story.</li>
