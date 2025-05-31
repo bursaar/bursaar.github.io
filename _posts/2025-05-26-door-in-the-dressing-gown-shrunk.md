@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Door in the Dressing Gown: On Foot"
+title: "On Foot"
 date: 2025-05-26 05:00:00 +0000
 categories:
 - Fiction

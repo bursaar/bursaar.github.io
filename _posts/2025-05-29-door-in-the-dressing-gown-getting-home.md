@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Door in the Dressing Gown: Getting Home"
+title: "Getting Home"
 date: 2025-05-29 05:00:00 +0000
 categories:
 - Fiction
