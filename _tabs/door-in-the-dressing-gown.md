@@ -3,6 +3,7 @@ order: 6
 icon: fas fa-book
 toc: true
 title: "The Door in the Dressing Gown"
+permalink: /door-in-the-dressing-gown/
 ---
 I've been writing a piece of fiction for, and sort of with, my son Ari for a few months now. Some evenings at bedtime I'll come up with a short chapter. I have no overriding structure or big goal, but I'm feeling my way towards a few ideas I hope he finds fun.
 
@@ -10,9 +11,9 @@ As I think of it and have time, I'll add the posts to the blog, backdated when n
 
 <h1>{{ page.title }}: Collected Writing</h1>
 
-{%- assign selected_posts = site.posts | where_exp: "post", "post.tags contains 'Door in the Dressing Gown'" -%}
-
-{%- assign sorted_posts = selected_posts | sort: "sort_order" -%}
+{%- assign selected_posts = site.posts | where_exp: "post", "post.categories contains 'Door in the Dressing Gown'" -%}
+{%- assign sorted_posts = selected_posts | sort: "date" | reverse -%}
+<!-- {%- assign sorted_posts = sorted_posts | reverse -%} -->
 
 {%- for post in sorted_posts -%}
   <article>
