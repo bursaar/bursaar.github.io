@@ -16,11 +16,11 @@ categories:
 - Commentary
 - First Person Shooter
 - In-Depth
-- Point &amp; Click Adventure
+- Point & Click Adventure
 tags:
 - BioShock
 - Bioshock Infinite
-- 'Command &amp; Conquer: Red Alert'
+- 'Command & Conquer: Red Alert'
 - Half-Life
 - Half-Life 2
 - 'Half-Life 2: Episode One'
@@ -34,6 +34,7 @@ comments: []
 ---
 <p><i><i>You walk onto the forecourt of a dark and desolate gas station, your dog at your side. The old-timey old-timer sitting by the pumps asks you the dog’s name and you hover over answering, “His name is Homer.” but then think better of it and reply, “Her name is Blue.”</i></i></p>
 <p><img class="alignnone size-large wp-image-4472" alt="Kentucky Route Zero: Episode One" src="assets/uploads/norobots/uploads/2013/05/2410783-2013_01_10_00001.jpg" width="580" height="362" /></p>
+
 <p><a href="https://kentuckyroutezero.com/"><i>Kentucky Route Zero</i></a> is a small kickstarter-funded project to be released in several acts, and it remains to be seen how your choices affect the story, but while it may seem like a quirky-if-traditional interactive work of fiction, like <a href="https://www.telltalegames.com/walkingdead"><i>The Walking Dead</i></a>, the scope of the choices reveals something quite different.</p>
 <p><!--more--></p>
 <p><img class="alignnone size-large wp-image-4473" alt="Kentucky Route Zero - Episode Two" src="assets/uploads/norobots/uploads/2013/05/kentucky-route-zero-screen.jpg" width="580" height="326" /></p>

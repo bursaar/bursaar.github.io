@@ -87,7 +87,7 @@ comments: []
 <h2 class="wp-block-heading">Valheim</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:image {"id":53,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/F95B51AA2DB9435324EBB8B3717BA728D4495CCB-1024x576.jpeg" alt="" class="wp-image-53"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/F95B51AA2DB9435324EBB8B3717BA728D4495CCB.jpeg" alt="" class="wp-image-53"/><br />
 <figcaption class="wp-element-caption">The nice house looking down on the unfinished house (left) and...my house (right)</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -103,7 +103,7 @@ comments: []
 <h2 class="wp-block-heading">Vampire Survivors</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:image {"id":61,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/Vampire_Survivors_2_2_2022_10_12_56_PM.png-1024x617.webp" alt="" class="wp-image-61"/><br />
+<figure class="wp-block-image size-large"><img src="assets/uploads/now.ben.ie/2023/07/Vampire_Survivors_2_2_2022_10_12_56_PM.png.webp" alt="" class="wp-image-61"/><br />
 <figcaption class="wp-element-caption">Just bonkers</figcaption>
 </figure>
 <p><!-- /wp:image --></p>

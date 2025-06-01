@@ -16,4 +16,4 @@ I'm going to write them up, piece by piece, and post them here. Not to really pu
 
 Until then, you can click on the ["Door in the Dressing Gown"](/door-in-the-dressing-gown/) tab in the sidebar and that'll take you to all the stories, collated together into a single page. Maybe some day that page'll be huge, though at time of writing, there're only two chapters. Barely more than a day's worth of NaNoWriMo.
 
-Anyway, please enjoy! Any questions or feedback, please [reach out](ben@ben.ie).
+Anyway, please enjoy! Any questions or feedback, please [reach out](mailto:ben@ben.ie).
