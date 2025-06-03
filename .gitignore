@@ -28,3 +28,6 @@ assets/js/dist
 
 # MacOS
 .DS_Store
+
+# Obsidian cache
+.obsidian/cache
