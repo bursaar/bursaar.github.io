@@ -1,8 +1,8 @@
 ---
-order: 5
+order: 6
 icon: fas fa-file
 toc: true
-title: "Curriculm Vitae"
+title: Curriculm Vitae
 media_subpath: ./../assets/uploads/benie/cv
 ---
 

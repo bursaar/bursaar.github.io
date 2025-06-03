@@ -1,8 +1,8 @@
 ---
-order: 6
+order: 7
 icon: fas fa-book
 toc: true
-title: "The Door in the Dressing Gown"
+title: The Door in the Dressing Gown
 permalink: /door-in-the-dressing-gown/
 ---
 I've been writing a piece of fiction for, and sort of with, my son Ari for a few months now. Some evenings at bedtime I'll come up with a short chapter. I have no overriding structure or big goal, but I'm feeling my way towards a few ideas I hope he finds fun.
