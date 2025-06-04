@@ -11,17 +11,30 @@
             "id": "6eedf2234e8dc881",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/uploads/jekyll/2025/05/27/88F0A6EA-A3C2-4177-B526-7DE9604E4AD5_1_105_c.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "88F0A6EA-A3C2-4177-B526-7DE9604E4AD5_1_105_c"
+            }
+          },
+          {
+            "id": "3980e2349ede5db6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-06-01-now.md",
+                "file": "_posts/2025-05-27-dublin-airport-has-nice-coffee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-01-now"
+              "title": "2025-05-27-dublin-airport-has-nice-coffee"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-06-01-now.md",
+                "file": "_posts/2025-05-27-dublin-airport-has-nice-coffee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-01-now"
+              "title": "Backlinks for 2025-05-27-dublin-airport-has-nice-coffee"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-06-01-now.md",
+                "file": "_posts/2025-05-27-dublin-airport-has-nice-coffee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-06-01-now"
+              "title": "Outgoing links from 2025-05-27-dublin-airport-has-nice-coffee"
             }
           },
           {
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-06-01-now.md",
+                "file": "_posts/2025-05-27-dublin-airport-has-nice-coffee.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-01-now"
+              "title": "Outline of 2025-05-27-dublin-airport-has-nice-coffee"
             }
           }
         ],
@@ -169,38 +182,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eedf2234e8dc881",
+  "active": "3980e2349ede5db6",
   "lastOpenFiles": [
+    "_drafts/2025-05-27-time-torch-.md",
+    "_site/posts/dublin-airport-has-nice-coffee/index.html",
+    "_site/posts/dublin-airport-has-nice-coffee",
+    "_site/tags/coffee/index.html",
+    "_site/tags/coffee",
+    "assets/uploads/jekyll/2025/05/27/997AFB67-8821-4371-AB63-0A9E13793514_1_105_c.jpeg",
+    "_posts/2025-05-27-dublin-airport-has-nice-coffee.md",
+    "assets/uploads/jekyll/2025/05/27/1BFDA24B-1491-4658-B4C7-775CE40AE932_1_105_c.jpeg",
+    "_site/2025-05-27-dublin-airport-has-nice-coffee.html",
+    "assets/uploads/jekyll/2025/05/27/3A3B048E-8B09-4FAD-AFBB-2ED6A7D095D3_1_105_c.jpeg",
+    "assets/uploads/jekyll/2025/05/27/88F0A6EA-A3C2-4177-B526-7DE9604E4AD5_1_105_c.jpeg",
+    "_site/assets/uploads/jekyll/2025/05/27/997AFB67-8821-4371-AB63-0A9E13793514_1_105_c.jpeg",
+    "_site/assets/uploads/jekyll/2025/05/27/88F0A6EA-A3C2-4177-B526-7DE9604E4AD5_1_105_c.jpeg",
+    "_site/assets/uploads/jekyll/2025/05/27/3A3B048E-8B09-4FAD-AFBB-2ED6A7D095D3_1_105_c.jpeg",
+    "_site/assets/uploads/jekyll/2025/05/27/1BFDA24B-1491-4658-B4C7-775CE40AE932_1_105_c.jpeg",
+    "_site/assets/uploads/jekyll/2025/05/27",
+    "_site/assets/uploads/jekyll/2025/05",
+    "_posts/2025-06-01-now.md",
+    "assets/uploads/jekyll/2025/05/27",
+    "assets/uploads/jekyll/2025/05",
+    "_site/assets/uploads/jekyll/2025/06/01/EzraKleinAlbumArt.png",
     "_site/assets/uploads/jekyll/2025/06/01/vergecast.jpeg",
-    "_site/assets/uploads/jekyll/2025/06/01/Ezra Klein Album Art.png",
     "_site/assets/uploads/jekyll/2025/06/01",
-    "assets/uploads/jekyll/2025/06/01/vergecast.jpeg",
-    "assets/uploads/jekyll/2025/06/01/vergecast.jpeg.crdownload",
-    "assets/uploads/jekyll/2025/06/01/Ezra Klein Album Art.png",
-    "assets/uploads/jekyll/2025/06/01/ezra-klein-album-art-videoSixteenByNineJumbo1600-v3.png",
-    "assets/uploads/jekyll/2025/06/01/ezra-klein-album-art-videoSixteenByNineJumbo1600-v3.png.crdownload",
-    "assets/uploads/jekyll/2025/06/01",
     "_tabs/now.md",
     "_tabs/about.md",
     "_tabs/tags.md",
-    "_posts/2025-06-01-now.md",
     "tools/templates/Now Page.md",
     "_posts/2023-10-27-recapping-october-2023.md",
     "_tabs/archives.md",
     "_tabs/categories.md",
     "_tabs/cv.md",
     "_tabs/door-in-the-dressing-gown.md",
-    "_site/posts/now/index.html",
-    "_site/posts/now",
-    "_site/categories/now/index.html",
-    "_site/categories/now",
-    "_site/now/index.html",
-    "_site/now",
     "_posts/2025-06-02-the-rehearsal.md",
-    "_site/assets/uploads/jekyll/2025/06/02/the-rehearsal-nathan-fielder-fire.avif",
-    "_site/assets/uploads/jekyll/2025/06/02/the-rehearsal-key-art.avif",
-    "assets/uploads/jekyll/2025/06/02/the-rehearsal-nathan-fielder-fire.avif",
-    "assets/uploads/jekyll/2025/06/02/the-rehearsal-key-art.avif",
     "tools/templates/Post Template.md",
     "_posts/2011-05-22-dublin-town.md"
   ]
