@@ -2,21 +2,30 @@
 layout: post
 status: publish
 published: true
-title: "Trailer for The Seance at Blake Manor"
+title: Trailer for The Seance at Blake Manor
 author: ben
 toc: true
-date: '2025-03-17 20:50:24 +0100'
-image: "assets/uploads/benie/cv/eldritch-house-library.jpg"
+date: 2025-03-17 20:50:24 +0100
+image: assets/uploads/benie/cv/eldritch-house-lib.jpg
 categories:
-- Game Development
+  - Game Development
 tags:
-- Games
-- GameDev
-- Eldritch House
-- Spooky Doorway
-- Adventure Games
-- The Seance at Blake Manor
-- The Darkside Detective
+  - Games
+  - GameDev
+  - Eldritch
+  - House
+  - Spooky
+  - Doorway
+  - Adventure
+  - Games
+  - The
+  - Seance
+  - at
+  - Blake
+  - Manor
+  - The
+  - Darkside
+  - Detective
 ---
 I worked for four years at kickass indie game studio [Spooky Doorway](https://www.spookydoorway.com/) as a Unity developer (occasionally filling in for my boss when she'd take parental leave). I learned a huge amount working there, and loved helping build such fun, well-loved games. Even though they're graphically simple, games like _The Darkside Detective_ and _The Darkside Detective: A Fumble in the Dark_, were still huge amounts of work for engineering to get out the door stable, performant, fully localised and on all platforms. We even shipped on [Google Stadia](https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech/archives/2)! 
 
