@@ -13,6 +13,7 @@ tags:
   - Comedy
 image: assets/uploads/jekyll/2025/06/02/the-rehearsal-key-art.avif
 description: An incredibly fresh take on, well, everything.
+permalink: /the-rehearsal-season-2
 ---
 # Season 1
 I watched Season One of *The Rehearsal* with a feeling of increasing awe and cringey horror.

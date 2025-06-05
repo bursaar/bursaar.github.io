@@ -29,7 +29,7 @@ Bootstrapping an exciting new cross-platform project at [Scopely](https://scopel
 ## Eldritch House
 _In Development_
 
-![Eldritch House](assets/uploads/benie/cv/eldritch-house-lib.jpg){: .shadow }
+![Eldritch House](eldritch-house-lib.jpg){: .shadow }
 
 **Senior Programmer** @ [Spooky Doorway](https://spookydoorway.com)
 
