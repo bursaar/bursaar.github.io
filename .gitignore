@@ -32,3 +32,7 @@ assets/js/dist
 # Obsidian cache
 .obsidian/cache
 .obsidian/workspace.json
+
+# Syncthing files
+.syncthing
+syncthing-folder-*.txt
