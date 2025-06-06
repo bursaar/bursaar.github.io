@@ -13,7 +13,6 @@ As I think of it and have time, I'll add the posts to the blog, backdated when n
 
 {%- assign selected_posts = site.posts | where_exp: "post", "post.categories contains 'Door in the Dressing Gown'" -%}
 {%- assign sorted_posts = selected_posts | sort: "date" | reverse -%}
-<!-- {%- assign sorted_posts = sorted_posts | reverse -%} -->
 
 {%- for post in sorted_posts -%}
   <article>
