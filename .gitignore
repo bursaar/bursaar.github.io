@@ -31,3 +31,4 @@ assets/js/dist
 
 # Obsidian cache
 .obsidian/cache
+.obsidian/workspace.json
