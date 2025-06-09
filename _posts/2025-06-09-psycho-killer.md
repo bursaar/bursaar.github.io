@@ -20,5 +20,3 @@ My favourite thing about it is that 48 years after a song came out, a band found
 Just for fun, here's a live version from their 1984 concert film *Stop Making Sense*:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Q75BUg1epU?si=d-WB4fAiBQ7xNEJ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-P.S. these are probably not showing for you in the embeds. Apologies for YouTube's closed-web mentality, but clicking through should work fine.
