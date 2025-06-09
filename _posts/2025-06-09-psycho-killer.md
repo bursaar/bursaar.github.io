@@ -9,7 +9,7 @@ categories:
   - Music
 tags:
   - TalkingHeads
-image: assets/uploads/jekyll/2025/09/psycho-killer.jpg
+image: assets/uploads/jekyll/2025/06/09/psycho-killer.jpg
 description: Better late than never
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CJ54eImz88w?si=CdfdGpHRZCYukYZx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -6,7 +6,7 @@ title: Trailer for The Seance at Blake Manor
 author: ben
 toc: true
 date: 2025-03-17 20:50:24 +0100
-image: assets/uploads/benie/cv/eldritch-house-lib.jpg
+image: /assets/uploads/benie/cv/eldritch-house-lib.jpg
 categories:
   - Game Development
 tags:
